@@ -1,0 +1,40 @@
+.topic{
+    font-size: 70px;
+    text-align: center;
+}
+.content5{
+    padding: 20px 120px 20px 120px;
+}
+.topic1{
+    font-size: 24px;
+    text-align: center;
+}
+
+.line1{
+    border-top: 3px solid #455555;
+    width: 200px;
+    
+}
+
+.ruler{
+    padding-left: 220px;
+}
+.content6{
+    padding: 20px 400px 20px 400px;
+    text-align: left;
+}
+.topic2{
+    font-size: 12px;
+}
+.content7{
+    padding: 20px 400px 20px 400px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.explore{
+    color: rgb(84, 143, 143);
+}
+.explore:hover{
+    color: black;
+}

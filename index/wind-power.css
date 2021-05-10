@@ -1,0 +1,88 @@
+.windvan-div{
+    margin-left: 200px;
+}
+
+.center1{
+    font-size: 45px;
+    margin-top: 30px;
+    background-color: rgb(255, 205, 176);
+    width: 600px;
+}
+
+.windpower{
+    height: 700px;
+    width: 750px;
+    margin-top: 60px;
+}
+
+.windpower1{
+    margin-left: 40px;
+    height: 700px;
+    width: 750px;
+}
+
+.windvan-color{
+    background-color: rgb(255, 205, 176);
+    width: 650px;
+}
+
+.windvan-light{
+    font-weight: lighter;
+    font-style: italic;
+}
+.wind-van1{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+.wind-van2{
+    font-size: 25px;
+}
+
+.windvan-wheel{
+    font-size: 40px;
+    font-weight: bold;
+    background-color: rgb(255, 205, 176);
+    width: 950px;
+}
+
+.windvan3{
+    margin-top: 40px;
+}
+.windpower-deco{
+    color: ;
+}
+.windpower-deco:hover{
+    color: rgb(2, 117, 216);
+    text-decoration: none;
+
+}
+.windpower2{
+    height: 700px;
+    width: 750px;
+}
+
+
+    div .image .windpower-header{
+        position: absolute;
+        top: 600px;
+        left: 150px;
+        font-size: 30px;
+        font-weight: bold;
+        color: black;
+    }
+
+    .windpower2-figure{
+        font-weight: bold;
+    }
+    .windpower2-figure1{
+        font-weight: bold;
+        margin-left: 40px;
+    }
+
+    
+    
+    
+
+
